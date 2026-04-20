@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "mySQL",
+            "group": "mySQLgroup",
+            "database": "bais_sqlite_lab.db"
+        }
+    ]
+}
